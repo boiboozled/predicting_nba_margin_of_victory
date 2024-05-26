@@ -1,3 +1,4 @@
 
 /venv
 /catboost_info
+/models/keras_checkpoint
